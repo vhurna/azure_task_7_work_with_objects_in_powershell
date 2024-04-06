@@ -1,0 +1,1 @@
+# azure_task_7_work_with_objects_in_powershell
