@@ -1,0 +1,5532 @@
+[
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2a_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 51200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4a_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8a_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16a_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32a_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48a_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64a_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1638400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96a_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2as_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 16384,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4as_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8as_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16as_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32as_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48as_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 393216,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64as_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96as_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 786432,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2a_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 51200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4a_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8a_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16a_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20a_v4",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 512000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32a_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48a_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64a_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1638400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96a_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2as_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2as_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4as_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2as_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4as_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8as_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4as_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8as_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16as_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20as_v4",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 327680,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8as_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16as_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32as_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48as_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 786432,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-16as_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-32as_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64as_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-24as_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1376256,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-48as_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1376256,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96as_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1376256,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96ias_v4",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1376256,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 2,
+    "MemoryInMB": 2048,
+    "Name": "Standard_A1_v2",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 10240,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_A2m_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 20480,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_A2_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 20480,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_A4m_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 40960,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 8192,
+    "Name": "Standard_A4_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 40960,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_A8m_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 81920,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 16384,
+    "Name": "Standard_A8_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 81920,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 2,
+    "MemoryInMB": 512,
+    "Name": "Standard_B1ls",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4096,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 2,
+    "MemoryInMB": 2048,
+    "Name": "Standard_B1ms",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4096,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 2,
+    "MemoryInMB": 1024,
+    "Name": "Standard_B1s",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4096,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_B2ms",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 16384,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_B2s",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 8192,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_B4ms",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_B8ms",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 49152,
+    "Name": "Standard_B12ms",
+    "NumberOfCores": 12,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 98304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_B16ms",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 81920,
+    "Name": "Standard_B20ms",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 163840,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2ds_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4ds_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8ds_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16ds_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32ds_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48ds_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64ds_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2ds_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4ds_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8ds_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16ds_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32ds_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48ds_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64ds_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96ds_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2d_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4d_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8d_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16d_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32d_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48d_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64d_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2d_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4d_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8d_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16d_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32d_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48d_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64d_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96d_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 3584,
+    "Name": "Standard_DS1_v2",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 7168,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_DS2_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 14336,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS3_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS4_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS5_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS11-1_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS11_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS12-1_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS12-2_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS12_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS13-2_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS13-4_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS13_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_DS14-4_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 229376,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_DS14-8_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 229376,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_DS14_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 229376,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 143360,
+    "Name": "Standard_DS15_v2",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 286720,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_DS2_v2_Promo",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 14336,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS3_v2_Promo",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS4_v2_Promo",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS5_v2_Promo",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS11_v2_Promo",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS12_v2_Promo",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS13_v2_Promo",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_DS14_v2_Promo",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 229376,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2s_v3",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 16384,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4s_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8s_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16s_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32s_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48s_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 393216,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64s_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2s_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4s_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8s_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16s_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32s_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48s_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64s_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2s_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4s_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8s_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16s_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32s_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48s_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64s_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96s_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 3584,
+    "Name": "Standard_D1_v2",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 51200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_D2_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_D3_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 28672,
+    "Name": "Standard_D4_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 57344,
+    "Name": "Standard_D5_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_D11_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_D12_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_D13_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_D14_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 143360,
+    "Name": "Standard_D15_v2",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1024000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_D2_v2_Promo",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_D3_v2_Promo",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 28672,
+    "Name": "Standard_D4_v2_Promo",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 57344,
+    "Name": "Standard_D5_v2_Promo",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_D11_v2_Promo",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_D12_v2_Promo",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_D13_v2_Promo",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_D14_v2_Promo",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2_v3",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 51200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1638400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2ds_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2ds_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4ds_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2ds_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4ds_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8ds_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4ds_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8ds_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16ds_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20ds_v4",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 768000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8ds_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16ds_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32ds_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48ds_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64-16ds_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64-32ds_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64ds_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2ds_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2ds_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4ds_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2ds_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4ds_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8ds_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4ds_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8ds_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16ds_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20ds_v5",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 768000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8ds_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16ds_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32ds_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48ds_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-16ds_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-32ds_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64ds_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-24ds_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-48ds_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96ds_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E104ids_v5",
+    "NumberOfCores": 104,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3891200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2d_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4d_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8d_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16d_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20d_v4",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 768000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32d_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48d_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64d_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2d_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4d_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8d_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16d_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20d_v5",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 768000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32d_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48d_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64d_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96d_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E104id_v5",
+    "NumberOfCores": 104,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3891200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2s_v3",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2s_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4s_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2s_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4s_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8s_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4s_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8s_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16s_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20s_v3",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 327680,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8s_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16s_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32s_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48s_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 786432,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 442368,
+    "Name": "Standard_E64-16s_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 442368,
+    "Name": "Standard_E64-32s_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 442368,
+    "Name": "Standard_E64s_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2s_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2s_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4s_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2s_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4s_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8s_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4s_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8s_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16s_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20s_v4",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8s_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16s_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32s_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48s_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64-16s_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64-32s_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64s_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2s_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2s_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4s_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2s_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4s_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8s_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4s_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8s_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16s_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20s_v5",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8s_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16s_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32s_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48s_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-16s_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-32s_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64s_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-24s_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-48s_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96s_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E104is_v5",
+    "NumberOfCores": 104,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2_v3",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 51200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20_v3",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 512000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 442368,
+    "Name": "Standard_E64_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1638400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2_v4",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4_v4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8_v4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16_v4",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20_v4",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32_v4",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48_v4",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E64_v4",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20_v5",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E104i_v5",
+    "NumberOfCores": 104,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 2048,
+    "Name": "Standard_F1",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 16384,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 4096,
+    "Name": "Standard_F2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 8192,
+    "Name": "Standard_F4",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 16384,
+    "Name": "Standard_F8",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 32768,
+    "Name": "Standard_F16",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 2048,
+    "Name": "Standard_F1s",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4096,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 4096,
+    "Name": "Standard_F2s",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 8192,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 8192,
+    "Name": "Standard_F4s",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 16384,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 16384,
+    "Name": "Standard_F8s",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 32768,
+    "Name": "Standard_F16s",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_F2s_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 16384,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 8192,
+    "Name": "Standard_F4s_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 32768,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 16384,
+    "Name": "Standard_F8s_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 65536,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 32768,
+    "Name": "Standard_F16s_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 131072,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_F32s_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 262144,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 98304,
+    "Name": "Standard_F48s_v2",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 393216,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_F64s_v2",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 524288,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 147456,
+    "Name": "Standard_F72s_v2",
+    "NumberOfCores": 72,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 589824,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2bs_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4bs_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8bs_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16bs_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32bs_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48bs_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64bs_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96bs_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E112ibs_v5",
+    "NumberOfCores": 112,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2bds_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4bds_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8bds_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16bds_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32bds_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48bds_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64bds_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96bds_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E112ibds_v5",
+    "NumberOfCores": 112,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3891200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_D2ls_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D4ls_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D8ls_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D16ls_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D32ls_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 98304,
+    "Name": "Standard_D48ls_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D64ls_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D96ls_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_D2lds_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D4lds_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D8lds_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D16lds_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D32lds_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 98304,
+    "Name": "Standard_D48lds_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D64lds_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D96lds_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_B2ls_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_B2s_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 1024,
+    "Name": "Standard_B2ts_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 8192,
+    "Name": "Standard_B4ls_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_B4s_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 16384,
+    "Name": "Standard_B8ls_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_B8s_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 32768,
+    "Name": "Standard_B16ls_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_B16s_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_B32ls_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_B32s_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2as_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4as_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8as_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16as_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32as_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48as_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64as_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96as_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2as_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2as_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4as_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2as_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4as_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8as_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4as_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8as_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16as_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20as_v5",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8as_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16as_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32as_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48as_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-16as_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-32as_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64as_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-24as_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-48as_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96as_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E112ias_v5",
+    "NumberOfCores": 112,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_D2ads_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_D4ads_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_D8ads_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_D16ads_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_D32ads_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_D48ads_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_D64ads_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_D96ads_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 16384,
+    "Name": "Standard_E2ads_v5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4-2ads_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 32768,
+    "Name": "Standard_E4ads_v5",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-2ads_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8-4ads_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_E8ads_v5",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-4ads_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16-8ads_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_E16ads_v5",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 163840,
+    "Name": "Standard_E20ads_v5",
+    "NumberOfCores": 20,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 768000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-8ads_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32-16ads_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_E32ads_v5",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_E48ads_v5",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-16ads_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64-32ads_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_E64ads_v5",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-24ads_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96-48ads_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E96ads_v5",
+    "NumberOfCores": 96,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3686400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 688128,
+    "Name": "Standard_E112iads_v5",
+    "NumberOfCores": 112,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 3891200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 4096,
+    "Name": "Standard_B2als_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_B2as_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 1024,
+    "Name": "Standard_B2ats_v2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 8192,
+    "Name": "Standard_B4als_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_B4as_v2",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 16384,
+    "Name": "Standard_B8als_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_B8as_v2",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 32768,
+    "Name": "Standard_B16als_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_B16as_v2",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_B32als_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_B32as_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 5836800,
+    "Name": "Standard_M208ms_v2",
+    "NumberOfCores": 208,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2918400,
+    "Name": "Standard_M208s_v2",
+    "NumberOfCores": 208,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 5836800,
+    "Name": "Standard_M416-208s_v2",
+    "NumberOfCores": 416,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 8388608,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 5836800,
+    "Name": "Standard_M416s_v2",
+    "NumberOfCores": 416,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 8388608,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 11673600,
+    "Name": "Standard_M416-208ms_v2",
+    "NumberOfCores": 416,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 8388608,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 11673600,
+    "Name": "Standard_M416ms_v2",
+    "NumberOfCores": 416,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 8388608,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 7782400,
+    "Name": "Standard_M416s_8_v2",
+    "NumberOfCores": 416,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 1,
+    "MemoryInMB": 768,
+    "Name": "Standard_A0",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 20480,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 2,
+    "MemoryInMB": 1792,
+    "Name": "Standard_A1",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 71680,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 3584,
+    "Name": "Standard_A2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 138240,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_A3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 291840,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 14336,
+    "Name": "Standard_A5",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 138240,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_A4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 619520,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 28672,
+    "Name": "Standard_A6",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 291840,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 57344,
+    "Name": "Standard_A7",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 619520,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 1,
+    "MemoryInMB": 768,
+    "Name": "Basic_A0",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 20480,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 2,
+    "MemoryInMB": 1792,
+    "Name": "Basic_A1",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 40960,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 3584,
+    "Name": "Basic_A2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 61440,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Basic_A3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 122880,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Basic_A4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 245760,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 3584,
+    "Name": "Standard_D1",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 51200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_D2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_D3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 28672,
+    "Name": "Standard_D4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_D11",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 102400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_D12",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 204800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_D13",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 409600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_D14",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 3584,
+    "Name": "Standard_DS1",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 7168,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 7168,
+    "Name": "Standard_DS2",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 14336,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS4",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 14336,
+    "Name": "Standard_DS11",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 28672,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 28672,
+    "Name": "Standard_DS12",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 57344,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 57344,
+    "Name": "Standard_DS13",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 114688,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 114688,
+    "Name": "Standard_DS14",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 229376,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E80is_v4",
+    "NumberOfCores": 80,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 516096,
+    "Name": "Standard_E80ids_v4",
+    "NumberOfCores": 80,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4362240,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 442368,
+    "Name": "Standard_E64i_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1638400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 442368,
+    "Name": "Standard_E64is_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 884736,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 28672,
+    "Name": "Standard_NC4as_T4_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 180224,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 57344,
+    "Name": "Standard_NC8as_T4_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 360448,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 112640,
+    "Name": "Standard_NC16as_T4_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 360448,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 450560,
+    "Name": "Standard_NC64as_T4_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2883584,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 65536,
+    "Name": "Standard_L8s_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 81920,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_L16s_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 163840,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_L32s_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 327680,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_L48s_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 491520,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 524288,
+    "Name": "Standard_L64s_v3",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 655360,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 655360,
+    "Name": "Standard_L80s_v3",
+    "NumberOfCores": 80,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 819200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1048576,
+    "Name": "Standard_M64",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 7340032,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2097152,
+    "Name": "Standard_M128",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 14680064,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_M32ls",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1024000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_M32ts",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1024000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 524288,
+    "Name": "Standard_M64ls",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2048000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1048576,
+    "Name": "Standard_M64s",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2097152,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2097152,
+    "Name": "Standard_M128s",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 896000,
+    "Name": "Standard_M32ms_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1835008,
+    "Name": "Standard_M64ms_v2",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1048576,
+    "Name": "Standard_M64s_v2",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2097152,
+    "Name": "Standard_M128s_v2",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2097152,
+    "Name": "Standard_M192is_v2",
+    "NumberOfCores": 192,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 896000,
+    "Name": "Standard_M32dms_v2",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1048576,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1835008,
+    "Name": "Standard_M64dms_v2",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2097152,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1048576,
+    "Name": "Standard_M64ds_v2",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2097152,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2097152,
+    "Name": "Standard_M128ds_v2",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 2097152,
+    "Name": "Standard_M192ids_v2",
+    "NumberOfCores": 192,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1835008,
+    "Name": "Standard_M64m",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 7340032,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 3985408,
+    "Name": "Standard_M128m",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 14680064,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 224000,
+    "Name": "Standard_M8-2ms",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 256000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 224000,
+    "Name": "Standard_M8-4ms",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 256000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 224000,
+    "Name": "Standard_M8ms",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 256000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 448000,
+    "Name": "Standard_M16-4ms",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 512000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 448000,
+    "Name": "Standard_M16-8ms",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 512000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 448000,
+    "Name": "Standard_M16ms",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 512000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 896000,
+    "Name": "Standard_M32-8ms",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1024000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 896000,
+    "Name": "Standard_M32-16ms",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1024000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 896000,
+    "Name": "Standard_M32ms",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1024000,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1835008,
+    "Name": "Standard_M64-16ms",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2097152,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1835008,
+    "Name": "Standard_M64-32ms",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2097152,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 1835008,
+    "Name": "Standard_M64ms",
+    "NumberOfCores": 64,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2097152,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 3985408,
+    "Name": "Standard_M128-32ms",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 3985408,
+    "Name": "Standard_M128-64ms",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 3985408,
+    "Name": "Standard_M128ms",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 3985408,
+    "Name": "Standard_M128ms_v2",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 4194304,
+    "Name": "Standard_M192ims_v2",
+    "NumberOfCores": 192,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 3985408,
+    "Name": "Standard_M128dms_v2",
+    "NumberOfCores": 128,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 64,
+    "MemoryInMB": 4194304,
+    "Name": "Standard_M192idms_v2",
+    "NumberOfCores": 192,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 4194304,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_DC1s_v3",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_DC2s_v3",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_DC4s_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_DC8s_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_DC16s_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_DC24s_v3",
+    "NumberOfCores": 24,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_DC32s_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_DC48s_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 0,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 4,
+    "MemoryInMB": 8192,
+    "Name": "Standard_DC1ds_v3",
+    "NumberOfCores": 1,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 76800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 8,
+    "MemoryInMB": 16384,
+    "Name": "Standard_DC2ds_v3",
+    "NumberOfCores": 2,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 153600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 16,
+    "MemoryInMB": 32768,
+    "Name": "Standard_DC4ds_v3",
+    "NumberOfCores": 4,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 307200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 65536,
+    "Name": "Standard_DC8ds_v3",
+    "NumberOfCores": 8,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 614400,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 131072,
+    "Name": "Standard_DC16ds_v3",
+    "NumberOfCores": 16,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1228800,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 196608,
+    "Name": "Standard_DC24ds_v3",
+    "NumberOfCores": 24,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 1843200,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 262144,
+    "Name": "Standard_DC32ds_v3",
+    "NumberOfCores": 32,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  },
+  {
+    "MaxDataDiskCount": 32,
+    "MemoryInMB": 393216,
+    "Name": "Standard_DC48ds_v3",
+    "NumberOfCores": 48,
+    "OSDiskSizeInMB": 1047552,
+    "ResourceDiskSizeInMB": 2457600,
+    "RequestId": "23957734-b990-4750-b2b2-d108c48671d6",
+    "StatusCode": 200
+  }
+]
