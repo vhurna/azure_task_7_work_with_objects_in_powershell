@@ -31,20 +31,20 @@ If you are a Windows user, before running this command, please also run the foll
 
 In this task, you will need to write a Powershell script, which looks for regions, where particular VM size (`Standard_B2pts_v2`) is available for use: 
 
-    - Write a Powershell script, which implements task requirements in the file `task.ps1` in this repo.  
+- Write a Powershell script, which implements task requirements in the file `task.ps1` in this repo.  
 
-    - Folder `data` in this repository contains a set of JSON files. Each file is named after Azure region, and contains a list of VM sizes, available in the region. 
+- Folder `data` in this repository contains a set of JSON files. Each file is named after Azure region, and contains a list of VM sizes, available in the region. 
 
-    - Script should loop through the files. In each file, script should convert data from JSON to a list of objects, and search for the object, which represents VM size `Standard_B2pts_v2`. If such object was found - the region name should be added to the result list of regions. 
+- Script should loop through the files. In each file, script should convert data from JSON to a list of objects, and search for the object, which represents VM size `Standard_B2pts_v2`. If such object was found - the region name should be added to the result list of regions. 
 
-    - Result list of regions should be exported by script in JSON format to file `result.json` in this repository. Here how the file should look like:
-        ```
-            [
-                "australiaeast",
-                "canadacentral",
-                ...
-                "westus3"
-            ]
-        ```
+- Result list of regions should be exported by script in JSON format to file `result.json` in this repository. Here how the file should look like:
+    ```
+        [
+            "australiaeast",
+            "canadacentral",
+            ...
+            "westus3"
+        ]
+    ```
 
-    - After testing the script locally, make sure that the `result.json` is not commited to the repository (**othervise validation will fail**), and submit the solution for a review.  
+- After testing the script locally, make sure that the `result.json` is not commited to the repository (**othervise validation will fail**), and submit the solution for a review.  
