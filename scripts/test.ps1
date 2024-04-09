@@ -37,3 +37,6 @@ if ($secretRegion) {
 } else { 
     throw "Unable to validate the result list of regions. Please check possible reasons and try again. Possible reasonts: source data was re-generated (make sure to use original source data when submitting the solution); script is not using proper size family name; script is not implementing logic, described in the task. "
 }
+
+Write-Output ""
+Write-Output "`u{1F973} Congratulations! All tests passed!"
