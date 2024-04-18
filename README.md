@@ -48,3 +48,14 @@ In this task, you will need to write a Powershell script, which looks for region
     ```
 
 - After testing the script locally, make sure that the `result.json` is not commited to the repository (**othervise validation will fail**), and submit the solution for a review.  
+
+## Hints 
+
+- Use `Get-ChildItem` to get a list of files in the `data` directory. Feel free to explore the properties of the returned objects - they have separate properties for the full file path (suitable for the `Get-Content` comand) and for the file name (handy if you just need the file name). 
+
+- You can get a region name by cutting a suffix '.json' from the file name. In Powershell, you can cut a substring from sting just by using 'Replace()' method of the string variable or property. It's easy, just try it: 
+    ```
+        $stringVariable = "filename.json"
+        $stringVariable = $stringVariable.Replace('.json', '')
+        Write-Host $stringVariable
+    ```
