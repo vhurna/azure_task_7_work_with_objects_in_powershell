@@ -12,7 +12,7 @@ catch {
     throw "Unable to run the task script - please check if it's running locally and try again. Original error: $($_)"
 }
 
-if (Test-Path -Path "$PWD/result.json") { 
+if (Test-Path -Path "$PWD/result.json") {
     Write-Host "`u{2705} Checked if 'result.json' was created after running task script - OK"
 } else { 
     throw "Unable to find file 'result.json'. Please make sure that you are saving the result to the file in your script and try again." 
